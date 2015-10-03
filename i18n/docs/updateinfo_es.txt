@@ -1,0 +1,6 @@
+* Soporte para copias de seguridad con palabras (BIP39)
+* Soporte para BIP44
+* Soporte de direcciones no multi-firmas para monederos personales (1 de 1)
+* Detalles avanzados del monedero
+* Soporte Ledger para monederos multi-firmas
+* Corrección de errores menores
