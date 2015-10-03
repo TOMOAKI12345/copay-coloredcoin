@@ -40,17 +40,20 @@
     "url": "https://github.com/bitpay/copay/issues"
   },
   "dependencies": {
+    "aws-sdk": "^2.2.6",
     "express": "^4.11.2",
+    "formidable": "^1.0.17",
     "fs": "0.0.2",
     "grunt": "^0.4.5",
     "grunt-angular-gettext": "^0.2.15",
     "grunt-cli": "^0.1.13",
+    "grunt-contrib-compress": "^0.13.0",
     "grunt-contrib-concat": "^0.5.1",
     "grunt-contrib-copy": "^0.8.0",
-    "grunt-contrib-compress": "^0.13.0",
     "grunt-contrib-uglify": "^0.8.0",
     "grunt-contrib-watch": "^0.5.3",
     "grunt-exec": "^0.4.6",
+    "http-proxy": "^1.11.2",
     "shelljs": "^0.3.0"
   },
   "scripts": {
